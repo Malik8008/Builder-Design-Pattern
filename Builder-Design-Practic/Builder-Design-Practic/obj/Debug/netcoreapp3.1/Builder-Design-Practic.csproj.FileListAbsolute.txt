@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Builder-Design-Practic\Builder-Design-Practic\obj\Debug\netcoreapp3.1\Builder-Design-Practic.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Builder-Design-Practic\Builder-Design-Practic\obj\Debug\netcoreapp3.1\Builder-Design-Practic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Builder-Design-Practic\Builder-Design-Practic\obj\Debug\netcoreapp3.1\Builder-Design-Practic.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Builder-Design-Practic\Builder-Design-Practic\obj\Debug\netcoreapp3.1\Builder-Design-Practic.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Builder-Design-Practic\Builder-Design-Practic\obj\Debug\netcoreapp3.1\Builder-Design-Practic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Builder-Design-Practic\Builder-Design-Practic\bin\Debug\netcoreapp3.1\Builder-Design-Practic.exe
+C:\Users\Admin\source\repos\Builder-Design-Practic\Builder-Design-Practic\bin\Debug\netcoreapp3.1\Builder-Design-Practic.deps.json
+C:\Users\Admin\source\repos\Builder-Design-Practic\Builder-Design-Practic\bin\Debug\netcoreapp3.1\Builder-Design-Practic.runtimeconfig.json
+C:\Users\Admin\source\repos\Builder-Design-Practic\Builder-Design-Practic\bin\Debug\netcoreapp3.1\Builder-Design-Practic.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Builder-Design-Practic\Builder-Design-Practic\bin\Debug\netcoreapp3.1\Builder-Design-Practic.dll
+C:\Users\Admin\source\repos\Builder-Design-Practic\Builder-Design-Practic\bin\Debug\netcoreapp3.1\Builder-Design-Practic.pdb
+C:\Users\Admin\source\repos\Builder-Design-Practic\Builder-Design-Practic\obj\Debug\netcoreapp3.1\Builder-Design-Practic.dll
+C:\Users\Admin\source\repos\Builder-Design-Practic\Builder-Design-Practic\obj\Debug\netcoreapp3.1\Builder-Design-Practic.pdb
+C:\Users\Admin\source\repos\Builder-Design-Practic\Builder-Design-Practic\obj\Debug\netcoreapp3.1\Builder-Design-Practic.genruntimeconfig.cache
